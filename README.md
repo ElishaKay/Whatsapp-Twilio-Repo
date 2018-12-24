@@ -28,3 +28,16 @@ https://www.youtube.com/watch?v=6cYZ36GzkjQ
 Basic Rules of the Twilio API:
 
 https://www.youtube.com/watch?v=O2PB6o2E8aA&start_radio=1&list=RDO2PB6o2E8aA
+
+How we built the Twilio API for WhatsApp - SIGNAL 2018:
+
+https://www.youtube.com/watch?v=0q0UF6Nd7ro
+
+
+Alternative Services:
+
+Note: You can only send pre-approved Whatsapp Messages (unless the user initiates a conversation with you). If the user sends a text message to your Whatsapp Number, you have a 24-hour window to send them a custom message.
+
+Brad Traversy's "Send SMS Text Messages From Node.js"
+https://www.youtube.com/watch?v=980wnspXLe0&index=2&list=LLJ39jPaNwEeqQbDCDNZJNBA&t=46s
+https://github.com/bradtraversy/nodetextapp
