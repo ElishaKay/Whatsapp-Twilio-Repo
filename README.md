@@ -7,6 +7,14 @@ To run ngrok (for local development):
 ngrok http 3000
 ```
 
+Use Azure Functions to create Twilio Applications
+
+https://www.youtube.com/watch?v=zrBAyKhoF7E
+
+Programmable SMS Quickstart for Node.js
+
+https://www.twilio.com/docs/sms/quickstart/node
+
 
 Tutorials:
 
